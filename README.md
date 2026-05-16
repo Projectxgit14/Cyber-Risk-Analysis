@@ -176,12 +176,8 @@ This scoping is intentional. The goal was to build something **honest, explainab
 
 ## 👤 Author
 
-**Reshma Keshireddy** — 
-*Cybersecurity & Data Analytics*
-
-LinkedIn: https://linkedin.com/in/reshma-keshireddy-1283b91b6
-
-GitHub: https://github.com/reshmakeshireddy1021-bit
+**Abhishek Vishwakarma** — 
+*Data Analyst*
 
 ---
 
