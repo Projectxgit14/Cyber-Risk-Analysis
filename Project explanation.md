@@ -284,12 +284,8 @@ pip install pandas numpy matplotlib seaborn
 
 ## 👤 Author
 
-**Reshma Keshireddy** — Cybersecurity & Data Analytics
+**Abhishek Vishwakarma** —  Data Analyst
 
-LinkedIn: https://linkedin.com/in/reshma-keshireddy-1283b91b6
-GitHub: https://github.com/reshmakeshireddy1021-bit
-
----
 
 > *"Good security analytics doesn't just find risk — it helps leadership understand what that risk costs."*
 
